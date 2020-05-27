@@ -1,0 +1,23 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanderbergh/docker-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avanderbergh/docker-demo/issues"
+  },
+  "homepage": "https://github.com/avanderbergh/docker-demo#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
